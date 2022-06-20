@@ -1,2 +1,1 @@
-# testRepo
-testowe repozytorium
+Lorem Ipsum
